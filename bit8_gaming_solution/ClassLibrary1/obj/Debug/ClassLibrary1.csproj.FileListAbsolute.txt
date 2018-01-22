@@ -1,0 +1,5 @@
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseCodeAnalysis\Trunk\bit8_gaming_solution\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseCodeAnalysis\Trunk\bit8_gaming_solution\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseCodeAnalysis\Trunk\bit8_gaming_solution\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseCodeAnalysis\Trunk\bit8_gaming_solution\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseCodeAnalysis\Trunk\bit8_gaming_solution\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

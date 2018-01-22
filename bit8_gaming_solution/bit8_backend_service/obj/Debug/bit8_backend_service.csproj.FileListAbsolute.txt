@@ -1,0 +1,27 @@
+C:\Users\simone.taccori\Documents\Visual Studio 2017\Projects\BaseForCodeAnalysis\bit8_backend_service\bin\Debug\bit8_backend_service.exe.config
+C:\Users\simone.taccori\Documents\Visual Studio 2017\Projects\BaseForCodeAnalysis\bit8_backend_service\bin\Debug\bit8_backend_service.exe
+C:\Users\simone.taccori\Documents\Visual Studio 2017\Projects\BaseForCodeAnalysis\bit8_backend_service\bin\Debug\bit8_backend_service.pdb
+C:\Users\simone.taccori\Documents\Visual Studio 2017\Projects\BaseForCodeAnalysis\bit8_backend_service\obj\Debug\bit8_backend_service.csprojResolveAssemblyReference.cache
+C:\Users\simone.taccori\Documents\Visual Studio 2017\Projects\BaseForCodeAnalysis\bit8_backend_service\obj\Debug\bit8_backend_service.exe
+C:\Users\simone.taccori\Documents\Visual Studio 2017\Projects\BaseForCodeAnalysis\bit8_backend_service\obj\Debug\bit8_backend_service.pdb
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseForCodeAnalysisLocalDeveloper\bit8_backend_service\bin\Debug\bit8_backend_service.exe.config
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseForCodeAnalysisLocalDeveloper\bit8_backend_service\bin\Debug\bit8_backend_service.exe
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseForCodeAnalysisLocalDeveloper\bit8_backend_service\bin\Debug\bit8_backend_service.pdb
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseForCodeAnalysisLocalDeveloper\bit8_backend_service\obj\Debug\bit8_backend_service.csprojResolveAssemblyReference.cache
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseForCodeAnalysisLocalDeveloper\bit8_backend_service\obj\Debug\bit8_backend_service.exe
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseForCodeAnalysisLocalDeveloper\bit8_backend_service\obj\Debug\bit8_backend_service.pdb
+C:\Users\simone.taccori\Documents\Visual Studio 2017\Projects\BaseCodeTrunk\bit8_backend_service\obj\Debug\bit8_backend_service.csprojResolveAssemblyReference.cache
+C:\Users\simone.taccori\Documents\Visual Studio 2017\Projects\BaseCodeTrunk\bit8_backend_service\obj\Debug\bit8_backend_service.exe
+C:\Users\simone.taccori\Documents\Visual Studio 2017\Projects\BaseCodeTrunk\bit8_backend_service\obj\Debug\bit8_backend_service.pdb
+C:\Users\simone.taccori\Documents\Visual Studio 2017\Projects\BaseCodeTrunk\bit8_backend_service\bin\Debug\bit8_backend_service.exe.config
+C:\Users\simone.taccori\Documents\Visual Studio 2017\Projects\BaseCodeTrunk\bit8_backend_service\bin\Debug\bit8_backend_service.exe
+C:\Users\simone.taccori\Documents\Visual Studio 2017\Projects\BaseCodeTrunk\bit8_backend_service\bin\Debug\bit8_backend_service.pdb
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseForCodeAnalysis\Trunk\bit8_backend_service\obj\Debug\bit8_backend_service.csprojResolveAssemblyReference.cache
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseForCodeAnalysis\Trunk\bit8_backend_service\obj\Debug\bit8_backend_service.exe
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseForCodeAnalysis\Trunk\bit8_backend_service\obj\Debug\bit8_backend_service.pdb
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseForCodeAnalysis\Trunk\bit8_backend_service\bin\Debug\bit8_backend_service.exe.config
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseForCodeAnalysis\Trunk\bit8_backend_service\bin\Debug\bit8_backend_service.exe
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseForCodeAnalysis\Trunk\bit8_backend_service\bin\Debug\bit8_backend_service.pdb
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseCodeAnalysis\Trunk\bit8_gaming_solution\bit8_backend_service\obj\Debug\bit8_backend_service.exe
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseCodeAnalysis\Trunk\bit8_gaming_solution\bit8_backend_service\obj\Debug\bit8_backend_service.pdb
+C:\Users\simone.taccori\Documents\Eclipse workspace\BaseCodeAnalysis\Trunk\bit8_gaming_solution\bit8_backend_service\obj\Debug\bit8_backend_service.csprojResolveAssemblyReference.cache

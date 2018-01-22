@@ -1,0 +1,62 @@
+{
+    "extract_path":"#{Octopus.Action[mysql.db].Output.MyInstPackageDir}",
+    "db_octopus":{
+        "mysql_apps":{
+            "user":"#{db_octopus_apps_user}",
+            "password":"#{db_octopus_apps_password}",
+            "host":"#{db_octopus_apps_server}",
+            "port":#{db_octopus_apps_port},
+            "use_pure":false,
+            "raise_on_warnings":true,
+            "compress":true,
+            "connection_timeout":60
+        },
+        "mysql_rep":{
+            "user":"#{db_octopus_rep_user}",
+            "password":"#{db_octopus_rep_password}",
+            "host":"#{db_octopus_rep_server}",
+            "port":#{db_octopus_rep_port},
+            "use_pure":false,
+            "raise_on_warnings":true,
+            "compress":true,
+            "connection_timeout":60
+        }
+    },
+    "db_apps_service":{
+        "user": "#{db_apps_service_user}",
+        "password": "#{db_apps_service_password}",
+        "host": "#{db_apps_service_host}",
+        "priv_type" : "#{db_apps_service_priv_type}"
+    },
+    "db_apps":{
+        "name":"#{db_apps_name}",
+        "user":"#{db_apps_user}",
+        "password":"#{db_apps_password}",
+        "host":"#{db_apps_host}",
+        "priv_type":"#{db_apps_priv_type}",
+        "priv_level":"#{db_apps_priv_level}"
+    },
+    "db_reports":{
+        "name":"#{db_reports_name}",
+        "user":"#{db_reports_user}",
+        "password":"#{db_reports_password}",
+        "host":"#{db_reports_host}",
+        "priv_type":"#{db_reports_priv_type}",
+        "priv_level":"#{db_reports_priv_level}"
+    },
+    "dbv":{
+        "init_sql":"initialize_v_3_9_0.sql",
+        "init_rev":"0300900019043",
+        "last_rev":null,
+        "rev_schema":true,
+        "rev_stored_routines":true,
+        "rev_data":true,
+        "rev_reports":true,
+        "rev_multilingual":true,
+        "rev_system_components":true
+    },
+    "options":{
+        "disable_rev_stored_routines_when_proc":true,
+        "use_mysql_option_file":true
+    }
+}
